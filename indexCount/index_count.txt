@@ -1,0 +1,1 @@
+This index_count.py Python script reads text files in a specified folder, extracts the index number from the beginning of each line, and provides the total occurrences of each unique index across all files.
