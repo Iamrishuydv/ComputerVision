@@ -1,0 +1,9 @@
+This script is for copying a specific line from each text file
+in a source folder to a destination folder based on the provided index.
+
+My script takes a source folder containing text files, 
+asks for a destination folder, 
+and an index number. 
+Then, it copies the line which we can say each annotated class at that index from each text file to a new text file in the destination folder. 
+
+It's a handy tool for extracting specific lines from multiple text files.
