@@ -1,0 +1,15 @@
+TextLineReader PyScript is designed to analyze and provide information about the text files within a specified folder. Here's a step-by-step description:
+
+User Input:
+The script starts by asking the user to input the path of the folder where their text files are located.
+
+List Text Files:
+It then goes through the specified folder and creates a list (txt_files) containing the names of all files with a '.txt' extension. This list is printed out for the user to see.
+
+Count Total Lines:
+The script initializes a counter (total_lines) to keep track of the total number of lines across all text files. It then iterates through each text file, opens it, reads all the lines, and adds the count to the total_lines.
+
+Print Results:
+After processing all text files, the script prints out the total number of lines found, providing a summary of the annotations or content within the specified folder.
+
+In summary, this script is a simple utility for quickly assessing the scale of textual data within a folder, particularly useful when dealing with multiple text files and wanting to know the overall amount of content at the Large Scale.
